@@ -9,7 +9,7 @@
       "name": "dont-stop-working",
       "source": "./",
       "description": "Carry an authorized task through verification and an honest completion check.",
-      "version": "0.1.1"
+      "version": "0.1.2"
     }
   ]
 }

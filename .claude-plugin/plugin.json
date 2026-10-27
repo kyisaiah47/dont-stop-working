@@ -1,6 +1,6 @@
 {
   "name": "dont-stop-working",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Carry an authorized task through its remaining work, observable verification, and an honest completion check.",
   "author": {
     "name": "Compound Labs"
@@ -12,5 +12,9 @@
     "skills",
     "task-completion",
     "verification"
-  ]
+  ],
+  "displayName": "Don't Stop Working",
+  "supportUrl": "https://github.com/kyisaiah47/dont-stop-working/issues",
+  "privacyPolicyUrl": "https://github.com/kyisaiah47/dont-stop-working/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/kyisaiah47/dont-stop-working/blob/main/LICENSE"
 }
