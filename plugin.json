@@ -1,0 +1,41 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dont-stop-working",
+  "version": "0.1.0",
+  "description": "Carry an authorized task through its remaining work, observable verification, and an honest completion check in Codex or Claude Code.",
+  "author": {
+    "name": "Compound Labs",
+    "url": "https://github.com/kyisaiah47"
+  },
+  "homepage": "https://github.com/kyisaiah47/dont-stop-working",
+  "repository": "https://github.com/kyisaiah47/dont-stop-working",
+  "license": "LicenseRef-Compound-Labs-Skills",
+  "keywords": [
+    "skills",
+    "codex",
+    "claude-code",
+    "verification",
+    "task-completion"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Don't Stop Working",
+        "shortDescription": "Finish and verify the task",
+        "longDescription": "Carry an authorized task through its remaining work, observable verification, and an honest completion check in Codex or Claude Code. Supports Codex and Claude Code. See the repository for setup requirements, tested behavior, and limitations.",
+        "developerName": "Compound Labs",
+        "category": "Productivity",
+        "websiteURL": "https://github.com/kyisaiah47/dont-stop-working",
+        "supportURL": "https://github.com/kyisaiah47/dont-stop-working/issues",
+        "defaultPrompt": [
+          "Finish the current task and verify every requested result."
+        ],
+        "composerIcon": "./assets/icon.svg",
+        "logo": "./assets/icon.svg"
+      },
+      "publication": {
+        "release_notes": "Initial public package for Codex and Claude Code."
+      }
+    }
+  }
+}

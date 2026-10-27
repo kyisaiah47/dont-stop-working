@@ -1,0 +1,12 @@
+{
+  "name": "dont-stop-working-marketplace",
+  "interface": { "displayName": "Don't Stop Working" },
+  "plugins": [
+    {
+      "name": "dont-stop-working",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

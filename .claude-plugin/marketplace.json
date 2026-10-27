@@ -1,0 +1,13 @@
+{
+  "name": "dont-stop-working-marketplace",
+  "description": "Task completion and verification skills for coding assistants.",
+  "owner": { "name": "Compound Labs" },
+  "plugins": [
+    {
+      "name": "dont-stop-working",
+      "source": "./",
+      "description": "Carry an authorized task through verification and an honest completion check.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Don't Stop Working"
+  short_description: "Finish authorized work and verify the whole outcome"
+  default_prompt: "Use $dont-stop-working to carry the current task through verification and report any genuine blockers."

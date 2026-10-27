@@ -1,0 +1,10 @@
+{
+  "name": "dont-stop-working",
+  "version": "0.1.0",
+  "description": "Carry an authorized task through its remaining work, observable verification, and an honest completion check.",
+  "author": { "name": "Compound Labs" },
+  "homepage": "https://github.com/kyisaiah47/dont-stop-working",
+  "repository": "https://github.com/kyisaiah47/dont-stop-working",
+  "license": "LicenseRef-Compound-Labs-Skills",
+  "keywords": ["skills", "task-completion", "verification"]
+}
