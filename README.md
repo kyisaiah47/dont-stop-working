@@ -76,3 +76,7 @@ One shared `skills/dont-stop-working/SKILL.md` is used by both hosts. Root `plug
 Copyright © 2026 Compound Labs. This is proprietary material distributed with permission for personal and business use; see [LICENSE](LICENSE).
 
 Documentation: [Codex plugin packaging](https://developers.openai.com/plugins/build/plugins), [Claude Code plugins](https://code.claude.com/docs/en/plugins).
+
+## Privacy and terms
+
+Read the [data-handling policy](PRIVACY.md) and [usage terms](LICENSE) before use.
