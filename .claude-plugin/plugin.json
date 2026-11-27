@@ -3,11 +3,11 @@
   "version": "0.1.2",
   "description": "Carry an authorized task through its remaining work, observable verification, and an honest completion check.",
   "author": {
-    "name": "Compound Labs"
+    "name": "Isaiah Kim"
   },
   "homepage": "https://github.com/kyisaiah47/dont-stop-working",
   "repository": "https://github.com/kyisaiah47/dont-stop-working",
-  "license": "LicenseRef-Compound-Labs-Skills",
+  "license": "LicenseRef-Isaiah-Kim-Skills",
   "keywords": [
     "skills",
     "task-completion",

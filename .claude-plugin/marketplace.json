@@ -2,7 +2,7 @@
   "name": "dont-stop-working-marketplace",
   "description": "Task completion and verification skills for coding assistants.",
   "owner": {
-    "name": "Compound Labs"
+    "name": "Isaiah Kim"
   },
   "plugins": [
     {

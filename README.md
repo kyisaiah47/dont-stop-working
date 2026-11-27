@@ -73,7 +73,7 @@ The [evaluation cases](evals/cases.md) cover behavior beyond metadata validation
 
 One shared `skills/dont-stop-working/SKILL.md` is used by both hosts. Root `plugin.json` provides the portable Agent Plugins manifest; `.claude-plugin/plugin.json` provides Claude packaging. Each host has its own repository marketplace catalog.
 
-Copyright © 2026 Compound Labs. This is proprietary material distributed with permission for personal and business use; see [LICENSE](LICENSE).
+Copyright © 2026 Isaiah Kim. This is proprietary material distributed with permission for personal and business use; see [LICENSE](LICENSE).
 
 Documentation: [Codex plugin packaging](https://developers.openai.com/plugins/build/plugins), [Claude Code plugins](https://code.claude.com/docs/en/plugins).
 

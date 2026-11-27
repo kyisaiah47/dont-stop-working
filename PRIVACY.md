@@ -1,6 +1,6 @@
 # Privacy and data handling
 
-Applies to the dont-stop-working package published by Compound Labs. Updated October 27, 2026.
+Applies to the dont-stop-working package published by Isaiah Kim. Updated October 27, 2026.
 
 ## Package behavior
 

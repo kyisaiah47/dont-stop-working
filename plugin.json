@@ -4,12 +4,12 @@
   "version": "0.1.2",
   "description": "Carry an authorized task through its remaining work, observable verification, and an honest completion check in Codex or Claude Code.",
   "author": {
-    "name": "Compound Labs",
+    "name": "Isaiah Kim",
     "url": "https://github.com/kyisaiah47"
   },
   "homepage": "https://github.com/kyisaiah47/dont-stop-working",
   "repository": "https://github.com/kyisaiah47/dont-stop-working",
-  "license": "LicenseRef-Compound-Labs-Skills",
+  "license": "LicenseRef-Isaiah-Kim-Skills",
   "keywords": [
     "skills",
     "codex",
@@ -23,7 +23,7 @@
         "displayName": "Don't Stop Working",
         "shortDescription": "Finish and verify the task",
         "longDescription": "Carry an authorized task through its remaining work, observable verification, and an honest completion check in Codex or Claude Code. Supports Codex and Claude Code. See the repository for setup requirements, tested behavior, and limitations.",
-        "developerName": "Compound Labs",
+        "developerName": "Isaiah Kim",
         "category": "Productivity",
         "websiteURL": "https://github.com/kyisaiah47/dont-stop-working",
         "supportURL": "https://github.com/kyisaiah47/dont-stop-working/issues",
